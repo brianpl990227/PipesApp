@@ -21,6 +21,7 @@ export class NoComunesComponent {
     '=1': 'tenemos un cliente esperando.',
     'other': 'tenemos # clientes esperando'
 
+
     
   }
 
